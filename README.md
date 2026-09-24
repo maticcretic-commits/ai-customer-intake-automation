@@ -1,5 +1,10 @@
 # AI Customer Intake Automation
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/ai-customer-intake-automation?style=social)](https://github.com/maticcretic-commits/ai-customer-intake-automation/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/ai-customer-intake-automation)](https://github.com/maticcretic-commits/ai-customer-intake-automation/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/ai-customer-intake-automation)
+
+
 A portfolio practice project: an **AI customer-intake agent** — the flat-fee
 build agencies white-label for professional-service firms (chatbot, lead
 capture, booking assistant, CRM push).
